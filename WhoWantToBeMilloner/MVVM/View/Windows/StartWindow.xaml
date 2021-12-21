@@ -6,8 +6,54 @@
         xmlns:local="clr-namespace:WhoWantToBeMilloner.MVVM.View.Windows"
         mc:Ignorable="d"
         Title="StartWindow" 
-        Height="450" Width="800">
+        Height="450" Width="800"
+        WindowState ="Maximized">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Image Source="pack://application:,,,/images/Background1.jpg"
+               Stretch="UniformToFill"
+               Grid.ColumnSpan="5"
+               Grid.RowSpan="6"/>
+        <Image Source="pack://application:,,,/images/Logo1.png"             
+               Grid.ColumnSpan="3"
+               Grid.RowSpan="2"/>
+
+        <Button Grid.ColumnSpan="3"
+                Grid.Column="0"
+                Grid.Row="3"
+                Margin="120,0,120,25"
+                FontSize="25"
+                Style="{StaticResource BtnUserVariantOfAnswer}"
+                Content="Играть" Foreground="White"/>
+
+        <Button Grid.ColumnSpan="3"
+                Grid.Column="0"
+                Grid.Row="4"
+                Margin="120,0,120,25"
+                FontSize="25"
+                Style="{StaticResource BtnUserVariantOfAnswer}"
+                Content="Настройки" Foreground="White"/>
+
+        <Button Grid.ColumnSpan="3"
+                Grid.Column="0"
+                Grid.Row="5"
+                Margin="120,0,120,25"
+                FontSize="25"
+                Style="{StaticResource BtnUserVariantOfAnswer}"
+                Content="Правила" Foreground="White"/>
+
     </Grid>
 </Window>

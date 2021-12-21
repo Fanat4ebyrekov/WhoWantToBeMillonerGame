@@ -8,9 +8,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Images\Background1.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="MVVM\Model\" />
     <Folder Include="MVVM\ViewModel\" />
     <Folder Include="MVVM\View\Pages\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Background1.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Images\Emptybuton.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
