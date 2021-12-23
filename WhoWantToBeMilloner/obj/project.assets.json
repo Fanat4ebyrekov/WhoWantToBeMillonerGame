@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\progr\\.nuget\\packages\\": {},
+    "C:\\Users\\Danil\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\WhoWantToBeMilloner.csproj",
+      "projectUniqueName": "E:\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\WhoWantToBeMilloner.csproj",
       "projectName": "WhoWantToBeMilloner",
-      "projectPath": "D:\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\WhoWantToBeMilloner.csproj",
-      "packagesPath": "C:\\Users\\progr\\.nuget\\packages\\",
-      "outputPath": "D:\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\obj\\",
+      "projectPath": "E:\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\WhoWantToBeMilloner.csproj",
+      "packagesPath": "C:\\Users\\Danil\\.nuget\\packages\\",
+      "outputPath": "E:\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\progr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
