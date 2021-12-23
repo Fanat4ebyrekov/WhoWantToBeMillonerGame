@@ -8,7 +8,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Images\555.png" />
     <None Remove="Images\Background1.jpg" />
+    <None Remove="Images\Background2.jpg" />
+    <None Remove="Images\Background3.jpg" />
+    <None Remove="Images\Background4.jpg" />
+    <None Remove="Images\Background5.jpg" />
+    <None Remove="Images\Background6.jpg" />
+    <None Remove="Images\Background7.jpg" />
+    <None Remove="Images\Background8.jpg" />
+    <None Remove="Images\Emptybuton.png" />
+    <None Remove="Images\Home.png" />
+    <None Remove="Images\Logo1.png" />
+    <None Remove="Images\strelka.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -18,15 +30,45 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="Images\555.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="Images\Background1.jpg">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="Images\Emptybuton.png">
+    <Resource Include="Images\Background2.jpg">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </None>
+    </Resource>
+    <Resource Include="Images\Background3.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Background4.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Background5.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Background6.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Background7.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Background8.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Emptybuton.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Home.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Logo1.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\strelka.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
   </ItemGroup>
 
 </Project>

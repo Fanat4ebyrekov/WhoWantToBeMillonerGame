@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\WhoWantToBeMillonerGame\WhoWantToBeMilloner\obj\Debug\net6.0-windows\
+C:\Users\USER\Source\Repos\WhoWantToBeMillonerGame(Beta)\WhoWantToBeMilloner\obj\Debug\net6.0-windows\
 WhoWantToBeMilloner
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\WhoWantToBeMillonerGame\WhoWantToBeMilloner\App.xaml
-1-2081729830
+C:\Users\USER\Source\Repos\WhoWantToBeMillonerGame(Beta)\WhoWantToBeMilloner\App.xaml
+2-1174441178
 
-5-1465460388
+6-1559219187
 1941142463650
-MVVM\View\Windows\StartWindow.xaml;
+MVVM\View\Windows\SecondWindow.xaml;MVVM\View\Windows\StartWindow.xaml;
 
-True
+False
 

@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Danil\\.nuget\\packages\\": {},
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\WhoWantToBeMilloner.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\WhoWantToBeMillonerGame(Beta)\\WhoWantToBeMilloner\\WhoWantToBeMilloner.csproj",
       "projectName": "WhoWantToBeMilloner",
-      "projectPath": "E:\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\WhoWantToBeMilloner.csproj",
-      "packagesPath": "C:\\Users\\Danil\\.nuget\\packages\\",
-      "outputPath": "E:\\WhoWantToBeMillonerGame\\WhoWantToBeMilloner\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Source\\Repos\\WhoWantToBeMillonerGame(Beta)\\WhoWantToBeMilloner\\WhoWantToBeMilloner.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Source\\Repos\\WhoWantToBeMillonerGame(Beta)\\WhoWantToBeMilloner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -71,5 +71,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\Users\\USER\\Source\\Repos\\WhoWantToBeMillonerGame(Beta)\\WhoWantToBeMilloner\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
